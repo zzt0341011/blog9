@@ -1,5 +1,5 @@
 ---
-itle: 价格表,海外账号chatgpt,claude,gemini,google,apple,虚拟卡等
+title: 价格表,海外账号chatgpt,claude,gemini,google,apple,虚拟卡等
 description: 价格表,海外账号chatgpt,claude,gemini,google,apple,虚拟卡等
 ---
 
