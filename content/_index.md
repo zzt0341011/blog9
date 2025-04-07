@@ -7,7 +7,8 @@ type: docs
 
 | 序号 | 商品 | 价格 | 有效期 |
 | --- | --- | --- | --- |
-| 1 | Gemini号 | [5元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 一月  |
+| 1 | chatgpt号 | [5元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 永久  |
+
 | 2 | 共享火箭 | [20元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 一次 |
 | 3 | 独享火箭 | [48元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 长期 |
 | 4 | 飞机账号 | [20元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 永久  |
@@ -16,7 +17,7 @@ type: docs
 | 7 | 苹果礼卡 | [咨询](https://item.taobao.com/item.htm?ft=t&id=907741389243)  | 一次 |
 | 8 | 谷歌号 | [10元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 永久  |
 | 9 | 谷歌接码 | [6元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 永久  |
-| 10 | GPT4 | [170元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 1月  |
+| 10 | Gemini号 | [5元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 一月  |
 | 11 | 美区id | [10元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 永久  |
 | 12 | 香港id | [10元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 永久  |
 
@@ -38,8 +39,9 @@ type: docs
 | 21 | 长期实体 | [990元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 2年  |
 | 22 | 各种代付 | [咨询](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 一次 |
 
-
-
-
 ## 赠送500GAI教程
 ## 微信15188313531
+## 微信付款码
+![微信支付](https://jiage.jnk.ink/img/weixin.jpg)
+## 支付宝付款码
+![微信支付](https://jiage.jnk.ink/img/zhifubao.jpg)
