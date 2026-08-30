@@ -37,9 +37,6 @@ description: 价格表,海外账号chatgpt,claude,gemini,google,apple,虚拟卡�
 | 20 | 长期实体 | [990元](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 2年  |
 | 21 | 各种代付 | [咨询](https://item.taobao.com/item.htm?ft=t&id=907741389243) | 一次 |
 
-## 赠送500GAI教程
+
 ## 微信15188313531
-## 微信付款码
-![微信支付](https://jiage.jnk.ink/img/weixin.jpg)
-## 支付宝付款码
-![微信支付](https://jiage.jnk.ink/img/zhifubao.jpg)
+
